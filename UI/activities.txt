@@ -1,0 +1,19 @@
+Paris:Visit the Eiffel Tower
+Paris:Walk along the Seine River
+Paris:Explore the Louvre Museum
+New York:See Times Square
+New York:Visit the Statue of Liberty
+New York:Walk through Central Park
+Tokyo:Visit the Shibuya Crossing
+Tokyo:Explore the Meiji Shrine
+Tokyo:Walk through Asakusa
+Paris:Fortnite
+La Paz:Condoriri Trek
+Vienna:Perchtoldsdorf
+Cusco:Hiking
+Barcelona:Camp Nou
+Barcelona:Camp Nou
+Barcelona:La Rambla
+Rio:Jesus Statue
+Paris:Louvre Museum
+Lisbon:Take a ride on the tram
